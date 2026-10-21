@@ -1,0 +1,2 @@
+cbrkit[levenshtein]==1.7.1
+argparse
